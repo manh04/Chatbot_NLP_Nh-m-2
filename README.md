@@ -1,5 +1,9 @@
 # LEGAL AGENT - Hệ thống tư vấn Nghị định 168 về đăng ký doanh nghiệp
 
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
+[![Qdrant](https://img.shields.io/badge/Qdrant-1.7.3-green.svg)](https://qdrant.tech/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ## Giới thiệu
 
 Legal Agent là một hệ thống trợ lý ảo thông minh chuyên tư vấn và tra cứu Nghị định 168/NĐ-CP về đăng ký doanh nghiệp. Dự án được xây dựng như một bài tập nhóm, áp dụng các kỹ thuật xử lý ngôn ngữ tự nhiên (NLP) và trí tuệ nhân tạo (AI) để giải quyết bài toán tra cứu văn bản pháp luật một cách hiệu quả.
@@ -10,7 +14,20 @@ Legal Agent là một hệ thống trợ lý ảo thông minh chuyên tư vấn 
 - Cung cấp câu trả lời chính xác, nhanh chóng thay vì đọc toàn bộ văn bản
 - Hỗ trợ người dùng cuối (doanh nghiệp, cá nhân) trong việc tìm hiểu thủ tục đăng ký kinh doanh
 - Ứng dụng các công nghệ AI hiện đại như RAG (Retrieval-Augmented Generation), Hybrid Search, Reranking
+  
+---
 
+# Thành viên nhóm
+
+| STT | Họ tên           | Mã Sinh Viên |
+| --- | ---------------- | -------------|
+| 1   | Nguyễn Đình Mạnh | 22174600037  |
+| 2   | Lê Văn Khá       | 22174600096  |
+| 3   | Hà Quang Vinh    | 22174600065  |
+| 4   | Lưu Nhật Nam     | 22174600109  |
+| 5   | Đặng Hữu Tâm     | 22174600022  |
+
+---
 ## Tính năng chính
 
 **1. Xử lý PDF scanned**
@@ -380,18 +397,6 @@ agent/__init__.py
 
 (có thể để trống)
 
----
-
-
-# Thành viên nhóm
-
-| STT | Họ tên           | Mã Sinh Viên |
-| --- | ---------------- | -------------|
-| 1   | Nguyễn Đình Mạnh | 22174600037  |
-| 2   | Lê Văn Khá       | 22174600096  |
-| 3   | Hà Quang Vinh    | 22174600065  |
-| 4   | Lưu Nhật Nam     | 22174600109  |
-| 3   | Đặng Hữu Tâm     | 22174600022  |
 
 ---
 
