@@ -155,7 +155,7 @@ Bai_tap_nhom/
 ## Bước 1: Clone project
 
 ```bash
-git clone https://github.com/yourusername/legal-agent.git
+git clone https://github.com/manh04/Chatbot_NLP_Nhom.git
 cd legal-agent
 ```
 
