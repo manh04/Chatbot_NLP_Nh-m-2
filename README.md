@@ -133,7 +133,7 @@ Bai_tap_nhom/
 
 ---
 
-# 🚀 Công nghệ sử dụng
+# Công nghệ sử dụng
 
 * **Python 3.10+**
 * **Streamlit** - Giao diện web
@@ -150,7 +150,7 @@ Bai_tap_nhom/
 
 ---
 
-# ⚙️ Cài đặt
+# Cài đặt
 
 ## Bước 1: Clone project
 
@@ -210,7 +210,7 @@ opencv-python>=4.8.0
 
 ---
 
-# 📄 Chuẩn bị dữ liệu
+# Chuẩn bị dữ liệu
 
 Đặt file PDF vào thư mục gốc:
 
@@ -220,7 +220,7 @@ nghi_dinh_168.pdf
 
 ---
 
-# 🧠 Chạy hệ thống
+#  Chạy hệ thống
 
 ## Giai đoạn 1: OCR + Parse + Tạo Database
 
@@ -400,7 +400,7 @@ agent/__init__.py
 
 ---
 
-# 📚 Tài liệu tham khảo
+#  Tài liệu tham khảo
 
 * Nghị định 168/NĐ-CP về đăng ký doanh nghiệp
 * Qdrant Documentation
